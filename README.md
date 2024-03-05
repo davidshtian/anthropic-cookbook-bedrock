@@ -4,7 +4,7 @@ The Anthropic Cookbook for Bedrock Users provides code and guides designed to he
 
 ## Prerequisites
 
-To make the most of the examples in this cookbook, you'll NOT need an Anthropic API key, but access to AWS Bedrock Claude 3 model.
+To make the most of the examples in this cookbook, you'll NOT need an Anthropic API key, but [access to AWS Bedrock Claude 3 model](https://docs.aws.amazon.com/bedrock/latest/userguide/model-access.html).
 
 While the code examples are primarily written in Python, the concepts can be adapted to any programming language that supports interaction with the Anthropic API.
 
@@ -23,7 +23,7 @@ The Anthropic Cookbook for Bedrock Users thrives on the contributions of the dev
 
 To avoid duplication of efforts, please review the existing issues and pull requests before contributing.
 
-If you have ideas for new examples or guides, share them on the [issues page](https://github.com/anthropics/anthropic-cookbook/issues).
+If you have ideas for new examples or guides, share them on the [issues page](https://github.com/davidshtian/anthropic-cookbook-bedrock/issues).
 
 ## Table of recipes
 
