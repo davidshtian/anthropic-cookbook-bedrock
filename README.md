@@ -1,10 +1,10 @@
-# Anthropic Cookbook
+# Anthropic Cookbook for Bedrock Users
 
-The Anthropic Cookbook provides code and guides designed to help developers build with Claude, providing copy-able code snippets that you can easily integrate into your own projects.
+The Anthropic Cookbook for Bedrock Users provides code and guides designed to help developers build with Claude 3 on AWS Bedrock, providing copy-able code snippets that you can easily integrate into your own projects.
 
 ## Prerequisites
 
-To make the most of the examples in this cookbook, you'll need an Anthropic API key (sign up for free [here](https://www.anthropic.com)).
+To make the most of the examples in this cookbook, you'll NOT need an Anthropic API key, but access to AWS Bedrock Claude 3 model.
 
 While the code examples are primarily written in Python, the concepts can be adapted to any programming language that supports interaction with the Anthropic API.
 
@@ -12,13 +12,14 @@ While the code examples are primarily written in Python, the concepts can be ada
 
 Looking for more resources to enhance your experience with Claude and AI assistants? Check out these helpful links:
 
+- [Anthropic Claude Messages API](https://docs.aws.amazon.com/bedrock/latest/userguide/model-parameters-anthropic-claude-messages.html)
 - [Anthropic developer documentation](https://docs.anthropic.com/claude/docs/guide-to-anthropics-prompt-engineering-resources)
 - [Anthropic support docs](support.anthropic.com)
 - [Anthropic Discord community](https://www.anthropic.com/discord)
 
 ## Contributing
 
-The Anthropic Cookbook thrives on the contributions of the developer community. We value your input, whether it's submitting an idea, fixing a typo, adding a new guide, or improving an existing one. By contributing, you help make this resource even more valuable for everyone.
+The Anthropic Cookbook for Bedrock Users thrives on the contributions of the developer community. We value your input, whether it's submitting an idea, fixing a typo, adding a new guide, or improving an existing one. By contributing, you help make this resource even more valuable for everyone.
 
 To avoid duplication of efforts, please review the existing issues and pull requests before contributing.
 
